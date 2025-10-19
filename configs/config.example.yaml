@@ -1,0 +1,5 @@
+# 样例配置：定义 gRPC、RPC 节点以及监测间隔
+rpc: https://api.mainnet-beta.solana.com
+grpc: solana-yellowstone-grpc.publicnode.com:443
+interval: 5s
+log_level: info
